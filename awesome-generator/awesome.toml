@@ -139,6 +139,7 @@
 "https://github.com/lcj2/ciq_binarywatch" = {}
 "https://github.com/ldscavo/fitface" = {}
 "https://github.com/le-cds/connectiq-faceymcwatchface" = {}
+"https://github.com/ledouxe/Slanted280" = {}
 "https://github.com/lukaszgruca/SilverWatchFace" = {}
 "https://github.com/macherel/DaylightWF" = {}
 "https://github.com/markdotai/m1" = {}
@@ -294,7 +295,8 @@
 "https://github.com/rgergely/polesteps" = {}
 "https://github.com/rgergely/steps2fit" = {}
 "https://github.com/roelofk/HeartRateRunner" = {}
-"https://github.com/samueldumont/RaceWithPower" = {}
+"https://github.com/sam-dumont/GarminGoProDatafield" = { description = "Control your GoPro camera from a Datafield" }
+"https://github.com/sam-dumont/RaceWithPower" = {}
 "https://github.com/seajay/ColourHR" = {}
 "https://github.com/simonl-ciq/RollingAverage" = {}
 "https://github.com/simonmacmullen/chart-datafields" = {}
@@ -615,6 +617,7 @@
 "https://github.com/Cougargriff/SensorTriggerIQ" = {}
 "https://github.com/MatyasKriz/ios-connect-iq-comms" = {}
 "https://github.com/Wheellog/Companion.Garmin" = {}
+"https://github.com/buessow/garmin" = {}
 "https://github.com/dougw/Garmin-ExampleApp-Swift" = {}
 "https://github.com/gimportexportdevs/gexporter" = {}
 "https://github.com/gimportexportdevs/gimporter" = {}
@@ -625,6 +628,7 @@
 "https://github.com/urbandroid-team/Sleep-as-Android-Garmin-Addon" = {}
 
 [tools]
+"https://github.com/DavidBaddeley/connectiq-tester" = { description = "Fork of `connectiq-tester` with screenshot support"}
 "https://github.com/RobertWojtowicz/export2garmin" = {}
 "https://github.com/blackdogit/connectiq-monkeyc" = {}
 "https://github.com/blackshadev/garmin-connectiq-release-action" = {}
@@ -642,8 +646,8 @@
 "https://github.com/markw65/monkeyc-optimizer" = {}
 "https://github.com/markw65/prettier-extension-monkeyc" = {}
 "https://github.com/markw65/prettier-plugin-monkeyc" = {}
-"https://github.com/matco/action-connectiq-tester" = { description = "GitHub action for `connect-iq-tester`"}
-"https://github.com/matco/connectiq-tester" = {}
+"https://github.com/matco/action-connectiq-tester" = { description = "GitHub action for `connectiq-tester`"}
+"https://github.com/matco/connectiq-tester" = { description = "Docker image that can be used to run the tests \"Run No Evil\" of a ConnectIQ application" }
 "https://github.com/matin/garth" = {}
 "https://github.com/pzl/ciqdb" = {}
 "https://github.com/stadelmanma/fitparse-rs" = {}
@@ -665,6 +669,7 @@
 "https://github.com/ZachXu/NextMatchReminder" = {}
 "https://github.com/acrossthekyle/garmin" = { description = "Collection of projects created over the years for Garmin watches." }
 "https://github.com/creacominc/connectiq-PowerFieldTests" = {}
+"https://github.com/cyberang3l/garmin-monkey-c-neovim-language-server" = {}
 "https://github.com/cyberjunky/home-assistant-garmin_connect" = {}
 "https://github.com/douglasr/connectiq-samples" = {}
 "https://github.com/ekutter/CIQTest" = {}
@@ -675,6 +680,7 @@
 "https://github.com/google/open-location-code" = {}
 "https://github.com/iperformance/garmin-conect" = { description = "A collection of Connect IQ apps and libraries" }
 "https://github.com/jstringer1/garmin-connectiq" = {}
+"https://github.com/klimeryk/vim-monkey-c" = {}
 "https://github.com/rbsexton/workspace-ConnectIQ" = {}
 "https://github.com/sunpazed/garmin-ciqsummit17" = { description = "A basic widget that displays tweets from #ciqsummit17" }
 "https://github.com/sunpazed/garmin-complicate" = { description = "An example application that demonstrates system6 complications" }
